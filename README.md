@@ -1,4 +1,4 @@
-# Click All Like Buttons Script
+# Click All Like Buttons Script Linkedin 
 
 This script automates the process of clicking all "Like" buttons on a webpage. It continuously scrolls down the page, waits for new content to load, and clicks all "Like" buttons that haven't been clicked yet.
 
